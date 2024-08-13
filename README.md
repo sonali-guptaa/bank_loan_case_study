@@ -1,4 +1,4 @@
-# Project Description:
+# Bank Loan Evaluation:
 This project focuses on Exploratory Data Analysis (EDA) to identify patterns indicating potential loan default among urban customers applying for various types of loans. The dataset contains information about loan applications, including customer attributes and loan attributes.
 
 # Project Goal
